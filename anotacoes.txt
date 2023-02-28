@@ -4,7 +4,11 @@
     - Compreender a leitura do código javascript;
     - Diferenciar os termos event loop, call stack e task queue.  
 
-02 - 
+02 - Aplicando a Assincronicidade
+    - Criar funções que recebem como parâmetros outras funções (callbacks);
+    - Identificar uma API;
+    - Consumir dados de uma API através do método fetch;
+    - Compreender o funcionamento das promises.
 
 03 - 
 
