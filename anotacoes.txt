@@ -1,10 +1,14 @@
-01 - JavaScript para Web
+01 - Entendendo o JavaScript
+    - Importar um arquivo javascript dentro de um arquivo com formato html;
+    - Diferenciar um código javascript assíncrono;
+    - Compreender a leitura do código javascript;
+    - Diferenciar os termos event loop, call stack e task queue.  
 
-02 - Interagindo com uma pagina 
+02 - 
 
-03 - Montando uma peça
+03 - 
 
-04 - Montando um robô
+04 - 
 
-05 - Calculando o poder 
+05 - 
    
